@@ -2,4 +2,4 @@
 
 n=int(input("Enter nature number :"))
 sum=n*(n+1)/2  
-print(sum)
+print("SUM OF NATURE NUMBER :",sum)

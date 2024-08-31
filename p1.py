@@ -1,3 +1,6 @@
+# p1 : A card is drawn at random from a deck of well-suffled.find the probability 
+#      of if being neither a king nor a spade.
+
 Total_card=52
 Kings=4
 Spades= 13
