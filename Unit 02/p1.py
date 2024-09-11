@@ -7,9 +7,9 @@ for i in range(1,n):
 
 if n==sum1 :
     print("\n-----------------------------------")
-    print("Prefect Number : {1}".format(n))
+    print("{0} Is A Prefect Number.".format(n))
     print("-----------------------------------")
 else :
     print("\n-----------------------------------")
-    print("This Is Not Perfect Number :{0}".format(n))
+    print("{0} Is A Not Perfect Number....!".format(n))
     print("-----------------------------------")
